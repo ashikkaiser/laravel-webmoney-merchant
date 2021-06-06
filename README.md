@@ -14,14 +14,14 @@ Accept payments via WebMoney Merchant ([merchant.webmoney.ru](https://merchant.w
 
 You can accept payments with WebMoney Merchant via WebMoney, credit cards etc.
 
-#### Laravel 5.3, 5.4, PHP >= 5.6.4
+
 
 ## Installation
 
 You can install the package through Composer:
 
 ``` bash
-composer require actionm/laravel-webmoney-merchant
+composer require ashikkaiser/laravel-webmoney-merchant
 ```
 
 
